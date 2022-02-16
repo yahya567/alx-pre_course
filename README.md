@@ -1,2 +1,2 @@
-*This is italics* _emphasize_
-**And this is bold** __Strong__
+*This is italics*
+**And this is bold**
